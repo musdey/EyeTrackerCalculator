@@ -1,0 +1,13 @@
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\bin\x86\Debug\GazeAwareForms.exe
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\bin\x86\Debug\GazeAwareForms.pdb
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\bin\x86\Debug\EyeXFramework.dll
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\bin\x86\Debug\EyeXFramework.pdb
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.GazeAwareForm.resources
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.Properties.Resources.resources
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.UserControl1.resources
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.csproj.GenerateResource.Cache
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.exe
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.pdb

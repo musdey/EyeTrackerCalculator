@@ -1,0 +1,10 @@
+C:\VisualStudioProjects\Tobii Library\source\MinimalSamples\MinimalGazeDataStream\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\VisualStudioProjects\Tobii Library\source\MinimalSamples\MinimalGazeDataStream\bin\x86\Debug\MinimalGazeDataStream.exe
+C:\VisualStudioProjects\Tobii Library\source\MinimalSamples\MinimalGazeDataStream\bin\x86\Debug\MinimalGazeDataStream.pdb
+C:\VisualStudioProjects\Tobii Library\source\MinimalSamples\MinimalGazeDataStream\bin\x86\Debug\EyeXFramework.dll
+C:\VisualStudioProjects\Tobii Library\source\MinimalSamples\MinimalGazeDataStream\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\VisualStudioProjects\Tobii Library\source\MinimalSamples\MinimalGazeDataStream\bin\x86\Debug\EyeXFramework.pdb
+C:\VisualStudioProjects\Tobii Library\source\MinimalSamples\MinimalGazeDataStream\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\VisualStudioProjects\Tobii Library\source\MinimalSamples\MinimalGazeDataStream\obj\x86\Debug\MinimalGazeDataStream.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\Tobii Library\source\MinimalSamples\MinimalGazeDataStream\obj\x86\Debug\MinimalGazeDataStream.exe
+C:\VisualStudioProjects\Tobii Library\source\MinimalSamples\MinimalGazeDataStream\obj\x86\Debug\MinimalGazeDataStream.pdb

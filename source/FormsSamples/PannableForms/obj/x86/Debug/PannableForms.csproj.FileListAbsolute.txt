@@ -1,0 +1,14 @@
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\bin\x86\Debug\PannableForms.exe.config
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\bin\x86\Debug\PannableForms.exe
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\bin\x86\Debug\PannableForms.pdb
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\bin\x86\Debug\EyeXFramework.dll
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\bin\x86\Debug\EyeXFramework.pdb
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\obj\x86\Debug\PannableForms.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\obj\x86\Debug\PannableForms.PannableForm.resources
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\obj\x86\Debug\PannableForms.Properties.Resources.resources
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\obj\x86\Debug\PannableForms.csproj.GenerateResource.Cache
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\obj\x86\Debug\PannableForms.exe
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\PannableForms\obj\x86\Debug\PannableForms.pdb

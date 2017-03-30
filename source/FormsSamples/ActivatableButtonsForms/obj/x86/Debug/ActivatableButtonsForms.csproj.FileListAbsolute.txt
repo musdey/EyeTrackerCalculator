@@ -1,0 +1,13 @@
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\ActivatableButtonsForms.exe
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\ActivatableButtonsForms.pdb
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\EyeXFramework.dll
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\EyeXFramework.pdb
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\obj\x86\Debug\ActivatableButtonsForms.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\obj\x86\Debug\ActivatableButtonsForms.ActivatableButtonsForm.resources
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\obj\x86\Debug\ActivatableButtonsForms.Properties.Resources.resources
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\obj\x86\Debug\ActivatableButtonsForms.csproj.GenerateResource.Cache
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\obj\x86\Debug\ActivatableButtonsForms.exe
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableButtonsForms\obj\x86\Debug\ActivatableButtonsForms.pdb

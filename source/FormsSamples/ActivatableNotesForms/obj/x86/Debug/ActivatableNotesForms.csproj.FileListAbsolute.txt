@@ -1,0 +1,13 @@
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\bin\x86\Debug\ActivatableNotesForms.exe
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\bin\x86\Debug\ActivatableNotesForms.pdb
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\bin\x86\Debug\EyeXFramework.dll
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\bin\x86\Debug\EyeXFramework.pdb
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\obj\x86\Debug\ActivatableNotesForms.ActivatableNotesForm.resources
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\obj\x86\Debug\ActivatableNotesForms.NoteControl.resources
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\obj\x86\Debug\ActivatableNotesForms.Properties.Resources.resources
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\obj\x86\Debug\ActivatableNotesForms.csproj.GenerateResource.Cache
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\obj\x86\Debug\ActivatableNotesForms.exe
+C:\VisualStudioProjects\Tobii Library\source\FormsSamples\ActivatableNotesForms\obj\x86\Debug\ActivatableNotesForms.pdb
